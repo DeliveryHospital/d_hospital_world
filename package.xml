@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>aws_robomaker_hospital_world</name>
+  <name>d_hospital_world</name>
   <version>1.0.0</version>
   <description>
     AWS RoboMaker package for a house world with multiple rooms and furniture for Gazebo simulations.
